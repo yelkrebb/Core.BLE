@@ -1,0 +1,6 @@
+/Users/Berkley/Projects/Motion.Mobile.CoreBLE/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/Berkley/Projects/Motion.Mobile.CoreBLE/bin/Debug/Newtonsoft.Json.dll
+/Users/Berkley/Projects/Motion.Mobile.CoreBLE/bin/Debug/Motion.Mobile.CoreBLE.dll.mdb
+/Users/Berkley/Projects/Motion.Mobile.CoreBLE/bin/Debug/Motion.Mobile.CoreBLE.dll
+/Users/Berkley/Projects/Motion.Mobile.CoreBLE/obj/Debug/Motion.Mobile.CoreBLE.dll
+/Users/Berkley/Projects/Motion.Mobile.CoreBLE/obj/Debug/Motion.Mobile.CoreBLE.dll.mdb
