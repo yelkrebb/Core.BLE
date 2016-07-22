@@ -25,7 +25,7 @@ namespace Motion.Mobile.Core.BLE
 
 		// methods
 		void StartScanningForDevices ();
-		void StartScanningForDevices (Guid[] serviceUuid);
+		void StartScanningForDevices (List<Guid> serviceUuids);
 
 		void StopScanningForDevices ();
 		void ConnectToDevice (IDevice device);
