@@ -8,6 +8,7 @@ namespace Motion.Mobile.Core.BLE
 	{
 		// events
 		event EventHandler<CharacteristicReadEventArgs> ValueUpdated;
+		event EventHandler<CharacteristicReadEventArgs> NotificationStateValueUpdated;
 
 		// properties
 		Guid ID { get; }
@@ -18,6 +19,7 @@ namespace Motion.Mobile.Core.BLE
 		object NativeCharacteristic { get; }
 		string Name { get; }
 		CharacteristicPropertyType Properties { get; }
+		int ValueUpdatedSubscribers { get; }
 
 		bool CanRead { get; }
 		bool CanUpdate { get; }
